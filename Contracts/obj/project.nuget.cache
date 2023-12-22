@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmcnMT6Os0+/hLBLFMBWO265l322Jrmkk9M4KbkoPQTgAFv6MXhZmzGs5gNigGf5G0dny7Em57GYyQbKnqNG4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emediong Amos\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\nlog\\5.2.5\\nlog.5.2.5.nupkg.sha512",
+    "C:\\Users\\Emediong Amos\\.nuget\\packages\\nlog.extensions.logging\\5.3.5\\nlog.extensions.logging.5.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
