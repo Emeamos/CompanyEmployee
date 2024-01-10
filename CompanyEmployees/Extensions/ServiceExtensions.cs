@@ -30,6 +30,10 @@ namespace CompanyEmployees.Extensions
               services.AddDbContext<RepositoryContext>(opts =>
                 opts.UseMySQL(configuration.GetConnectionString("SqlConnection")));
 
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+        services.AddScoped<IRepositoryManager, RepositoryManager>();
+
+
 
 
     }
